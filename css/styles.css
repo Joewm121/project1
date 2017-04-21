@@ -4,7 +4,11 @@ body {
 }
 .me {
   float: left;
-  padding: 5px 5px 5px 0px;
+}
+
+.well {
+  position: relative;
+  padding: 30px 19px 19px 19px;
 }
 
 
