@@ -15,6 +15,7 @@ body {
 }
 p {
   text-align: center;
+
 }
 
 .container {
@@ -23,6 +24,7 @@ p {
 }
 h1 {
   text-align: center;
+  margin: 0px 0px;
 }
 header {
 width: 100%;
@@ -30,6 +32,7 @@ width: 100%;
 h3 {
 float: left;
 width: 100%;
+margin: 0px 0px;
 }
 nav {
 float: right;
@@ -53,7 +56,8 @@ float: right;
   padding: 0;
   position:relative;
   width: 100%;
-  background-color: white;
+  background-color: #A9A9A9;
+  margin: 0px 0px;
 }
 .topbanner {
   width: 100%;
