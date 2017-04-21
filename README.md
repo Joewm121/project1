@@ -1,12 +1,12 @@
-# _{Portfolio Page}_
+# _Portfolio Page_
 
-#### _{Page made using HTML,CSS covered in the last week}, {4/21/17}_
+#### _Page made using HTML,CSS covered in the last week, 4/21/17_
 
-#### By _**{Joe Werderber}**_
+#### By _**Joe Werderber**_
 
 ## Description
 
-_{This is a Portfolio page i've created to showcase the HTML,CSS tools that have been covered in class this week}_
+_This is a Portfolio page i've created to showcase the HTML,CSS tools that have been covered in class this week_
 
 ## Setup/Installation Requirements
 
@@ -15,18 +15,18 @@ _{This is a Portfolio page i've created to showcase the HTML,CSS tools that have
 
 ## Known Bugs
 
-_{No known bugs}_
+_No known bugs_
 
 ## Support and contact details
 
-_{Contact Joe Werderber (greendog22@gmail.com)}_
+_Contact Joe Werderber (greendog22@gmail.com)_
 
 ## Technologies Used
 
-_{HTML,CSS,Bootstrap}_
+_HTML,CSS,Bootstrap_
 
 ### License
 
-*{MIT}*
+*MIT*
 
-Copyright (c) 2017 **_{Joe Werderber}_**
+Copyright (c) 2017 **_Joe Werderber_**
